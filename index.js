@@ -1812,6 +1812,7 @@ app.post("/delete_cart", (req, res) => {
       res.json(us);
     }
   }); */
+  //test
 
   if(isLogedin){
       if(postid){
